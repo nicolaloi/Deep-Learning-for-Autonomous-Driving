@@ -9,9 +9,11 @@ Projects regarding the implementation of:
 
 Only the assignments are present, since the Professors asked to not share the code or the final reports.
 
-##
+#
 
 Overall rating of the projects: 114% (bonus points thanks to optional assignments).
+
+#
 
 ## Project 1: Understanding Multimodal Driving Data
 Visualize the outputs of common autonomous driving tasks such as 3D object detection and point cloud semantic segmentation given a LiDAR point cloud, corresponding RGB camera image, ground truth semantic labels and network bounding box predictions.  
